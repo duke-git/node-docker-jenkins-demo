@@ -1,0 +1,18 @@
+{
+  "name": "node-docker-jenkins-demo",
+  "version": "1.0.0",
+  "description": "a node kop demo with docker and jenkins",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "jenkins"
+  ],
+  "author": "dudaodong@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
